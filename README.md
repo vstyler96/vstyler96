@@ -1,6 +1,6 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/vstyler96/vstyler96/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://raw.githubusercontent.com/vstyler96/vstyler96/refs/heads/main/images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <img height="50" alt="My Name is Vincent and I like Laravel and Vue 3" src="images/personal_note.svg" />
@@ -45,7 +45,7 @@
 </table>
 
 <div align="center">
-<a href="https://github.com/vstyler96/vstyler96/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+<!-- <a href="https://github.com/vstyler96/vstyler96/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a>  -->
 </div>
 
 <!-- Guestbook -->
@@ -65,7 +65,7 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/vstyler96/vstyler96/master/images/marquee.svg" />
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/vstyler96/count.svg)
 
 
 <img src="https://raw.githubusercontent.com/vstyler96/vstyler96/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
