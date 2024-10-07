@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/vstyler96/vstyler96/refs/heads/main/images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Vincent and I like Laravel and Vue 3" src="images/personal_note.svg" />
+  <img height="50" alt="My Name is Vincent and I like Laravel and Vue 3" src="images/personal_note.svg?v=20241006" />
   <br />
   <br />
 
