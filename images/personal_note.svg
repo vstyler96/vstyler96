@@ -7,17 +7,19 @@
           color: limegreen;
           font-size: 1.5em;
         }
-
         .blink {
           animation: blink-animation 1s steps(5, start) infinite;
         }
         @keyframes blink-animation {
+          from {
+            visibility: visible;
+          }
           to {
             visibility: hidden;
           }
         }
       </style>
-      <strong>My Name is Vincent and I like <span class="blink">Laravel and Vue 3</span></strong>
+      <strong>My Name is Vincent and I like Laravel and Vue 3</strong>
 		</div>
 	</foreignObject>
 </svg>
