@@ -19,7 +19,7 @@
 <br />
 
 <p>
-<img alt="Globe" height="80" src="images/globe.gif">
+<img alt="Globe" height="80" src="https://raw.githubusercontent.com/vstyler96/vstyler96/refs/heads/main/images/globe.gif">
 </p>
 </a>
 </td>
@@ -32,7 +32,7 @@
 <br />
 
 <p>
-<img alt="Globe" height="80" src="images/pirate-dance.gif">
+<img alt="Globe" height="80" src="https://raw.githubusercontent.com/vstyler96/vstyler96/refs/heads/main/images/pirate-dance.gif">
 </p>
 </a>
 </td>
@@ -45,7 +45,7 @@
 <br />
 
 <p>
-<img height="100" alt="Music" src="images/music.gif">
+<img height="100" alt="Music" src="https://raw.githubusercontent.com/vstyler96/vstyler96/refs/heads/main/images/music.gif">
 </p>
 </a>
 </td>
