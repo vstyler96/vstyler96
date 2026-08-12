@@ -19,20 +19,20 @@
 <br />
 
 <p>
-<img alt="Globe" height="80" src="https://raw.githubusercontent.com/vstyler96/vstyler96/refs/heads/main/images/globe.gif">
+<img alt="Globe" height="80" src="https://raw.githubusercontent.com/vstyler96/vstyler96/refs/heads/main/images/globe.gif" />
 </p>
 </a>
 </td>
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=yhSq6AYSCKw">
+<a href="https://www.youtube.com/watch?v=E20G25SCAEg">
 <strong>Some mexican music 😃</strong>
 
 <br />
 <br />
 
 <p>
-<img alt="Globe" height="80" src="https://raw.githubusercontent.com/vstyler96/vstyler96/refs/heads/main/images/pirate-dance.gif">
+<img alt="Globe" height="80" src="https://raw.githubusercontent.com/vstyler96/vstyler96/refs/heads/main/images/pirate-dance.gif" />
 </p>
 </a>
 </td>
@@ -45,7 +45,7 @@
 <br />
 
 <p>
-<img height="100" alt="Music" src="https://raw.githubusercontent.com/vstyler96/vstyler96/refs/heads/main/images/music.gif">
+<img height="100" alt="Music" src="https://raw.githubusercontent.com/vstyler96/vstyler96/refs/heads/main/images/music.gif" />
 </p>
 </a>
 </td>
